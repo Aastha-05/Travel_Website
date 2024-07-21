@@ -1,11 +1,11 @@
 # Every Sunday ( Travel Agency Website )
 
-Welcome to Cooperative Bridge 6636, a web application built using HTML, CSS, and JavaScript. This project aims to create a cooperative platform that bridges people together. Below, you will find information about the project, its frontend pages, backend server, and how to access the live version deployed on Netlify.
+Welcome to Every Sunday Travel Website , a web application built using HTML, CSS, and JavaScript. This project aims to create a cooperative platform that bridges people together. Below, you will find information about the project, its frontend pages, backend server, and how to access the live version deployed on Netlify.
 
 ## Frontend Pages
 
 1. **Home Page**
-   The home page serves as the landing page for the Cooperative Bridge 6636 application. It provides an overview of the platform's purpose, features, and benefits.
+   The home page serves as the landing page for the Every Sunday Travel Website. It provides an overview of the platform's purpose, features, and benefits.
 
    ![Home Page](screens/home01.jpg)
    ![Home Page](screens/home02.png)
@@ -51,7 +51,7 @@ The frontend of Cooperative Bridge 6636 is built using the following technologie
 
 ## Backend Server
 
-The backend server provides the necessary data and functionality for the Cooperative Bridge 6636 application. It offers various endpoints to interact with the data.
+The backend server provides the necessary data and functionality for the Every Sunday Travel Website. It offers various endpoints to interact with the data.
 
 **Server Link**: [https://mock-every-sunday-server.onrender.com](https://mock-every-sunday-server.onrender.com)
 
@@ -64,12 +64,12 @@ The backend server provides the necessary data and functionality for the Coopera
 
 ## Deployment
 
-The live version of Cooperative Bridge 6636 is deployed on Netlify. You can access the application through the following link:
+The live version of Every Sunday Travel Website is deployed on Netlify. You can access the application through the following link:
 
 **Netlify Link**: [https://sparkly-salamander-87a5f4.netlify.app/](https://sparkly-salamander-87a5f4.netlify.app/)
 
-Feel free to explore the features of Cooperative Bridge 6636. If you encounter any issues or have any feedback, you can use the "Feedback" page to share your thoughts with us.
+Feel free to explore the features of Every Sunday Travel Website. If you encounter any issues or have any feedback, you can use the "Feedback" page to share your thoughts with us.
 
-Thank you for using Cooperative Bridge 6636! We hope you have a wonderful experience using our platform. If you have any questions or need assistance, please don't hesitate to contact our support team.
+Thank you for using Every Sunday Travel Website! We hope you have a wonderful experience using our platform. If you have any questions or need assistance, please don't hesitate to contact our support team.
 
 Happy bridging! 🌉
