@@ -1,4 +1,4 @@
-# Every Sunday ( Travel Agency Website )
+# Travel Website 
 
 Welcome to Every Sunday Travel Website , a web application built using HTML, CSS, and JavaScript. This project aims to create a cooperative platform that bridges people together. Below, you will find information about the project, its frontend pages, backend server, and how to access the live version deployed on Netlify.
 
@@ -41,7 +41,7 @@ Welcome to Every Sunday Travel Website , a web application built using HTML, CSS
 
 ## Tech Stacks
 
-The frontend of Cooperative Bridge 6636 is built using the following technologies:
+The frontend of Travel website is built using the following technologies:
 
 - **HTML**: The foundation of the web application, used for structuring the content and elements.
 
@@ -66,10 +66,10 @@ The backend server provides the necessary data and functionality for the Every S
 
 The live version of Every Sunday Travel Website is deployed on Netlify. You can access the application through the following link:
 
-**Netlify Link**: [https://sparkly-salamander-87a5f4.netlify.app/](https://sparkly-salamander-87a5f4.netlify.app/)
+**Netlify Link**: [https://everysundaytravel.netlify.app//](https://everysundaytravel.netlify.app/)
 
 Feel free to explore the features of Every Sunday Travel Website. If you encounter any issues or have any feedback, you can use the "Feedback" page to share your thoughts with us.
 
-Thank you for using Every Sunday Travel Website! We hope you have a wonderful experience using our platform. If you have any questions or need assistance, please don't hesitate to contact our support team.
+Thank you for using our Travel Website! We hope you have a wonderful experience using our platform. If you have any questions or need assistance, please don't hesitate to contact our support team.
 
 Happy bridging! 🌉
